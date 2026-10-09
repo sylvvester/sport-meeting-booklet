@@ -10,6 +10,8 @@ Windows 单机离线工具，用于配置并导出初高中分类报名表、导
 
 ### 安装与运行
 
+- **直接下载程序**：[Windows 公开版 v0.1.36](https://github.com/sylvvester/sport-meeting-booklet/releases/tag/v0.1.36-public)，打开页面后下载 Assets 中的 `sport-meeting-booklet-v0.1.36-public.exe`。
+- **下载源码**：仓库首页点击 `Code → Download ZIP`。开发者按下方步骤安装 Python 3.12 或更高版本后运行。
 - 如果项目的 Releases 页面提供 Windows 程序，下载对应版本的 `.exe`，放到固定文件夹后双击运行，不需要安装 Python。
 - 如果没有已发布的程序，请使用下面的“开发运行”或“构建 Windows 开发包”步骤，从源码运行或打包。
 - 完整秩序册导出为 `.docx`，请用 Word 或 WPS 打开，打印前预览分页。
